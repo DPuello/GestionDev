@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/GestionDev/static/css/main.c39d5069.chunk.css",
+    "main.js": "/GestionDev/static/js/main.4b0e875d.chunk.js",
+    "main.js.map": "/GestionDev/static/js/main.4b0e875d.chunk.js.map",
+    "runtime-main.js": "/GestionDev/static/js/runtime-main.70d106e4.js",
+    "runtime-main.js.map": "/GestionDev/static/js/runtime-main.70d106e4.js.map",
+    "static/css/2.38ddd37f.chunk.css": "/GestionDev/static/css/2.38ddd37f.chunk.css",
+    "static/js/2.e390d8ad.chunk.js": "/GestionDev/static/js/2.e390d8ad.chunk.js",
+    "static/js/2.e390d8ad.chunk.js.map": "/GestionDev/static/js/2.e390d8ad.chunk.js.map",
+    "index.html": "/GestionDev/index.html",
+    "static/css/2.38ddd37f.chunk.css.map": "/GestionDev/static/css/2.38ddd37f.chunk.css.map",
+    "static/css/main.c39d5069.chunk.css.map": "/GestionDev/static/css/main.c39d5069.chunk.css.map",
+    "static/js/2.e390d8ad.chunk.js.LICENSE.txt": "/GestionDev/static/js/2.e390d8ad.chunk.js.LICENSE.txt",
+    "static/media/BigCommerce.17b34d4a.png": "/GestionDev/static/media/BigCommerce.17b34d4a.png",
+    "static/media/Texture1.344a3f6a.mp4": "/GestionDev/static/media/Texture1.344a3f6a.mp4",
+    "static/media/App.css": "/GestionDev/static/media/servicesdev.b9ef29ab.jpg",
+    "static/media/ecommercefactory.d045fdc5.jpg": "/GestionDev/static/media/ecommercefactory.d045fdc5.jpg",
+    "static/media/integrante1.73caae68.jpg": "/GestionDev/static/media/integrante1.73caae68.jpg",
+    "static/media/integrante2.36c127a3.jpg": "/GestionDev/static/media/integrante2.36c127a3.jpg",
+    "static/media/integrante3.81d6fb9e.jpg": "/GestionDev/static/media/integrante3.81d6fb9e.jpg",
+    "static/media/organigrama.b9bd7522.png": "/GestionDev/static/media/organigrama.b9bd7522.png",
+    "static/media/shopify.8b4a07db.png": "/GestionDev/static/media/shopify.8b4a07db.png",
+    "static/media/vendesfacil.6d20ca60.png": "/GestionDev/static/media/vendesfacil.6d20ca60.png",
+    "static/media/videodev.54ade02e.mp4": "/GestionDev/static/media/videodev.54ade02e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d106e4.js",
+    "static/css/2.38ddd37f.chunk.css",
+    "static/js/2.e390d8ad.chunk.js",
+    "static/css/main.c39d5069.chunk.css",
+    "static/js/main.4b0e875d.chunk.js"
+  ]
+}
